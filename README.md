@@ -22,4 +22,5 @@
 
 ## 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=wh)](https://www.linkedin.com/in/guilhermessilva1/)
-[![gmail](mailto:guihhsoaress@gmail.com)
+[![Email](https://img.shields.io/badge/Email-guihhsoaress@gmail.com-red?style=flat&logo=gmail)](mailto:guihhsoaress@gmail.com)
+
