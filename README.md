@@ -5,7 +5,7 @@
 <ul>
   <li>Focado em aprender e conhecer novas tecnologias</li>
   <li>Procurando oportunidades de estágio</li>
-  <li>Estou estudando e praticando: Java, HTML, CSS, MySql, Python e Git</li>
+  <li>Estou estudando e praticando: Java, JavaScripy, React, POO, MySql, Python e Git</li>
 </ul>
 
 <div style="display: inline_block"><br> 
