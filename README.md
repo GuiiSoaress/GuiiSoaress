@@ -1,3 +1,96 @@
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/GuiiSoaress"> 🔗
+  https://gitfollio.vercel.app/GuiiSoaress
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Guilherme Soares",
+  "email": "guihhsoaress@gmail.com",
+  "tagline": "Desenvolvedor",
+  "avatar_url": "https://avatars.githubusercontent.com/u/165791068?v=4",
+  "website": "",
+  "githubUser": "GuiiSoaress",
+  "linkedinUser": "https://www.linkedin.com/in/guilhermessilva1/",
+  "about": "Cursando graduação em Análise e Desenvolvimento de Sistemas, com formação técnica em Mecatrônica e Informática. Possuo experiência na área de Suporte em TI. Busco oportunidades para aplicar e ampliar meus conhecimentos na área de Tecnologia da Informação.",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 13,
+  "following": 13,
+  "themeId": "minimal",
+  "tech": [
+  "Java",
+  "JavaScript",
+  "React",
+  "SQL",
+  "Git & GitHub"
+],
+  "projects": [
+  {
+    "id": 956592006,
+    "repoName": "FixNow",
+    "url": "https://github.com/GuiiSoaress/FixNow",
+    "stars": 1,
+    "description": "Projeto Integrador do 1° Semestre da Graduação em Análise e desenvolvimento de Sistemas. Sistema de solicitações de manutenção empresarial.",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 1098620797,
+    "repoName": "app_frontProdutos",
+    "url": "https://github.com/GuiiSoaress/app_frontProdutos",
+    "stars": 0,
+    "description": "Integração de back-end e front-end desenvolvido na disciplina de Desenvolvimento Front-End",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 989701677,
+    "repoName": "Lista-de-tarefas",
+    "url": "https://github.com/GuiiSoaress/Lista-de-tarefas",
+    "stars": 0,
+    "description": "Lista de tarefas construído com Java Swing",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Olá, eu sou o Guilherme 👋
 
 ### Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia SENAI São Carlos
